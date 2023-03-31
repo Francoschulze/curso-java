@@ -6,7 +6,7 @@ public class TesteGithub {
 		System.out.println("Segundo commit!");
 		
 		// clonando repositório
-		System.out.println("Segundo commit!");
+		System.out.println("Testando clone de repositório!");
 	}
 
 }
